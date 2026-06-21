@@ -1,0 +1,13 @@
+langgraph
+langchain-google-genai
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+xgboost
+shap
+scikit-learn
+pandas
+numpy
+streamlit
+python-dotenv
