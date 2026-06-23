@@ -1,0 +1,32 @@
+{
+  "weather_condition": {
+    "classes": [
+      "Cloudy",
+      "Rainy",
+      "Snowy",
+      "Sunny"
+    ],
+    "mapping": {
+      "Cloudy": 0,
+      "Rainy": 1,
+      "Snowy": 2,
+      "Sunny": 3
+    }
+  },
+  "category": {
+    "classes": [
+      "Clothing",
+      "Electronics",
+      "Furniture",
+      "Groceries",
+      "Toys"
+    ],
+    "mapping": {
+      "Clothing": 0,
+      "Electronics": 1,
+      "Furniture": 2,
+      "Groceries": 3,
+      "Toys": 4
+    }
+  }
+}
